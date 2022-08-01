@@ -1,4 +1,7 @@
-<h1 align="center">TTGames-Extraction-Tools</h1>
-TTGames extraction tools made by sluicer on Rock Raiders United
+<H1>Extraction Tool Fix </H1>
+<H3>Credit: Slucier and AlubJ</H3>
 
-I did not make any of these tools, I just decompiled them so we can find out more stuff about TTGame's LEGO Games.
+Creates a folder and extracts into that folder instead of putting extracted files into the directory of the ghg and gsc
+ExtractPcGhG was decompiled with dotPeek and the nxg and dx11 versions was edited using Alubs decompiled versions
+
+https://github.com/AlubJ/TTGames-Extraction-Tools
