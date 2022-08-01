@@ -10,8 +10,7 @@ namespace ExtractNxgMESH
 			try
 			{
 				ExtractNxgMESH extractNxgMESH = new ExtractNxgMESH();
-				string[] a = { @"C:\Users\alunj\source\repos\LEGO TOOLS\ExtractNgxMESH\obj\Debug\net20\HAT_INDY_REDDISHBROWN_NXG.GSC" };
-				extractNxgMESH.ParseArgs(a);
+				extractNxgMESH.ParseArgs(args);
 				extractNxgMESH.Extract();
 			}
 			catch (NotSupportedException ex)
