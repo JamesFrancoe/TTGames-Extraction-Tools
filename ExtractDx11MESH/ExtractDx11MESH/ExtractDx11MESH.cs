@@ -68,7 +68,8 @@ namespace ExtractDx11MESH
 		public void Extract()
 		{
 			FileInfo fileInfo = new FileInfo(fullPath);
-			directoryname = fileInfo.DirectoryName;
+			directoryname = fileInfo.DirectoryName + "\\" + filenamewithoutextension;
+			Directory.CreateDirectory(directoryname);
 			FileStream fileStream = File.Open(fullPath, FileMode.Open, FileAccess.Read, FileShare.ReadWrite);
 			fileData = new byte[(int)fileInfo.Length];
 			fileStream.Read(fileData, 0, (int)fileInfo.Length);
