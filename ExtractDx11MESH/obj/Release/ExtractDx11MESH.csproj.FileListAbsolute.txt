@@ -1,0 +1,7 @@
+C:\Users\User\Source\Repos\JamesFrancoe\TTGames-Extraction-Tools\ExtractDx11MESH\bin\Release\ExtractDx11MESHFix.exe
+C:\Users\User\Source\Repos\JamesFrancoe\TTGames-Extraction-Tools\ExtractDx11MESH\bin\Release\ExtractDx11MESHFix.pdb
+C:\Users\User\Source\Repos\JamesFrancoe\TTGames-Extraction-Tools\ExtractDx11MESH\bin\Release\ExtractHelper.dll
+C:\Users\User\Source\Repos\JamesFrancoe\TTGames-Extraction-Tools\ExtractDx11MESH\obj\Release\ExtractDx11MESH.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\JamesFrancoe\TTGames-Extraction-Tools\ExtractDx11MESH\obj\Release\ExtractDx11MESH.csproj.CopyComplete
+C:\Users\User\Source\Repos\JamesFrancoe\TTGames-Extraction-Tools\ExtractDx11MESH\obj\Release\ExtractDx11MESHFix.exe
+C:\Users\User\Source\Repos\JamesFrancoe\TTGames-Extraction-Tools\ExtractDx11MESH\obj\Release\ExtractDx11MESHFix.pdb

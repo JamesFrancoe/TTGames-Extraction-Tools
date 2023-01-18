@@ -1,7 +1,6 @@
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31402.337
-MinimumVisualStudioVersion = 10.0.40219.1
+
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractDx11MESH", "ExtractDx11MESH.csproj", "{5C77182D-6649-4367-86F8-C6506DFE6062}"
 EndProject
 Global
@@ -17,8 +16,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {00D1AD71-A461-42F2-8718-525EC203BE7D}
 	EndGlobalSection
 EndGlobal
